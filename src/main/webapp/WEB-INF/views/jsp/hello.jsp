@@ -28,7 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Welcome rohit sai thopu thurumu keka!
+			Welcome welcome!
 		</c:if>
     </p>
     <p>
